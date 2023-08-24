@@ -10,3 +10,5 @@
 - 協助VR實驗
 - ROS tutorial
 ## 8/21-8/28
+- 協助裝箱
+- ROS tutorial
